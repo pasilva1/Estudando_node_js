@@ -4,6 +4,12 @@ const numeroPares = numeros.filter((numeros) => {
     return numeros % 2 === 0
 })
 
+const numeroImares = numeros.filter((numeros) => {
+    return numeros % 2 === 1
+})
+
 console.log('Todos os números ',numeros)
 
 console.log('Números pares ', numeroPares)
+
+console.log('Números pares ', numeroImares)
