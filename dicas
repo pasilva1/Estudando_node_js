@@ -1,0 +1,22 @@
+node --versio
+v24.14.0
+
+npx --version
+11.9.0
+
+atalho para abrir terminal vs code
+
+Ctrl + J
+node script.js
+
+var
+let
+const
+
+hosting.js
+
+//string
+//number
+//boaleano
+//undefined
+//object
