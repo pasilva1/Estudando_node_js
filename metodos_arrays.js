@@ -9,7 +9,5 @@ const numeroImares = numeros.filter((numeros) => {
 })
 
 console.log('Todos os números ',numeros)
-
 console.log('Números pares ', numeroPares)
-
 console.log('Números pares ', numeroImares)
