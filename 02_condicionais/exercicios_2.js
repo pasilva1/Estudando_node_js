@@ -1,4 +1,4 @@
-const idade = 17
+const idade = 19
 const nome = 'Patrick'
 
 if (idade >= 18) {
